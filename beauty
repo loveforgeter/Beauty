@@ -1,0 +1,8 @@
+#! /usr/bin/env bash
+BEAUTY_PATH=$HOME/Library/Developer/Xcode/UserData/FontAndColorThemes
+if [[ ! -e $BEAUTY_PATH ]];then
+	ln -Ffs $(pwd) $BEAUTY_PATH
+elif [[ ! -h $BEAUTY_PATH ]];then
+	mv $BEAUTY_PATH "{$BEAUTY_PATH}_back"
+	ln -Ffs $(pwd) $BEAUTY_PATH
+fi
