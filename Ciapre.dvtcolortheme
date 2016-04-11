@@ -40,6 +40,8 @@
 	<string>0.669271 0.643009 0.480104 1</string>
 	<key>DVTMarkupTextEmphasisFont</key>
 	<string>.SFNSText-Italic - 10.0</string>
+	<key>DVTMarkupTextInlineCodeColor</key>
+	<string>0.669271 0.643009 0.480104 0.7</string>
 	<key>DVTMarkupTextLinkColor</key>
 	<string>0.638928 0.556079 0.366392 1</string>
 	<key>DVTMarkupTextLinkFont</key>
@@ -126,49 +128,49 @@
 	<key>DVTSourceTextSyntaxFonts</key>
 	<dict>
 		<key>xcode.syntax.attribute</key>
-		<string>Hack-Regular - 16.0</string>
+		<string>DejaVuSansMono - 16.0</string>
 		<key>xcode.syntax.character</key>
-		<string>Hack-Regular - 16.0</string>
+		<string>DejaVuSansMono - 16.0</string>
 		<key>xcode.syntax.comment</key>
-		<string>Hack-Regular - 16.0</string>
+		<string>DejaVuSansMono - 16.0</string>
 		<key>xcode.syntax.comment.doc</key>
-		<string>Hack-Regular - 16.0</string>
+		<string>DejaVuSansMono - 16.0</string>
 		<key>xcode.syntax.comment.doc.keyword</key>
-		<string>Hack-Regular - 16.0</string>
+		<string>DejaVuSansMono - 16.0</string>
 		<key>xcode.syntax.identifier.class</key>
-		<string>Hack-Regular - 16.0</string>
+		<string>DejaVuSansMono - 16.0</string>
 		<key>xcode.syntax.identifier.class.system</key>
-		<string>Hack-Regular - 16.0</string>
+		<string>DejaVuSansMono - 16.0</string>
 		<key>xcode.syntax.identifier.constant</key>
-		<string>Hack-Regular - 16.0</string>
+		<string>DejaVuSansMono - 16.0</string>
 		<key>xcode.syntax.identifier.constant.system</key>
-		<string>Hack-Regular - 16.0</string>
+		<string>DejaVuSansMono - 16.0</string>
 		<key>xcode.syntax.identifier.function</key>
-		<string>Hack-Regular - 16.0</string>
+		<string>DejaVuSansMono - 16.0</string>
 		<key>xcode.syntax.identifier.function.system</key>
-		<string>Hack-Regular - 16.0</string>
+		<string>DejaVuSansMono - 16.0</string>
 		<key>xcode.syntax.identifier.macro</key>
-		<string>Hack-Regular - 16.0</string>
+		<string>DejaVuSansMono - 16.0</string>
 		<key>xcode.syntax.identifier.macro.system</key>
-		<string>Hack-Regular - 16.0</string>
+		<string>DejaVuSansMono - 16.0</string>
 		<key>xcode.syntax.identifier.type</key>
-		<string>Hack-Regular - 16.0</string>
+		<string>DejaVuSansMono - 16.0</string>
 		<key>xcode.syntax.identifier.type.system</key>
-		<string>Hack-Regular - 16.0</string>
+		<string>DejaVuSansMono - 16.0</string>
 		<key>xcode.syntax.identifier.variable</key>
-		<string>Hack-Regular - 16.0</string>
+		<string>DejaVuSansMono - 16.0</string>
 		<key>xcode.syntax.identifier.variable.system</key>
-		<string>Hack-Regular - 16.0</string>
+		<string>DejaVuSansMono - 16.0</string>
 		<key>xcode.syntax.keyword</key>
-		<string>Hack-Regular - 16.0</string>
+		<string>DejaVuSansMono - 16.0</string>
 		<key>xcode.syntax.number</key>
-		<string>Hack-Regular - 16.0</string>
+		<string>DejaVuSansMono - 16.0</string>
 		<key>xcode.syntax.plain</key>
-		<string>Hack-Regular - 16.0</string>
+		<string>DejaVuSansMono - 16.0</string>
 		<key>xcode.syntax.preprocessor</key>
-		<string>Hack-Regular - 16.0</string>
+		<string>DejaVuSansMono - 16.0</string>
 		<key>xcode.syntax.string</key>
-		<string>Hack-Regular - 16.0</string>
+		<string>DejaVuSansMono - 16.0</string>
 		<key>xcode.syntax.url</key>
 		<string>DejaVuSansMono - 16.0</string>
 	</dict>
