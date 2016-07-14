@@ -40,6 +40,8 @@
 	<string>1 1 1 1</string>
 	<key>DVTMarkupTextEmphasisFont</key>
 	<string>.SFNSText-Italic - 13.0</string>
+	<key>DVTMarkupTextInlineCodeColor</key>
+	<string>1 1 1 0.7</string>
 	<key>DVTMarkupTextLinkColor</key>
 	<string>0.1 0.1 0.819 1</string>
 	<key>DVTMarkupTextLinkFont</key>
@@ -126,51 +128,51 @@
 	<key>DVTSourceTextSyntaxFonts</key>
 	<dict>
 		<key>xcode.syntax.attribute</key>
-		<string>Menlo-Regular - 16.0</string>
+		<string>Hack-Regular - 15.0</string>
 		<key>xcode.syntax.character</key>
-		<string>Menlo-Regular - 16.0</string>
+		<string>Hack-Regular - 15.0</string>
 		<key>xcode.syntax.comment</key>
-		<string>Menlo-Regular - 16.0</string>
+		<string>Hack-Regular - 15.0</string>
 		<key>xcode.syntax.comment.doc</key>
-		<string>Menlo-Regular - 16.0</string>
+		<string>Hack-Regular - 15.0</string>
 		<key>xcode.syntax.comment.doc.keyword</key>
-		<string>Menlo-Regular - 16.0</string>
+		<string>Hack-Regular - 15.0</string>
 		<key>xcode.syntax.identifier.class</key>
-		<string>Menlo-Regular - 16.0</string>
+		<string>Hack-Regular - 15.0</string>
 		<key>xcode.syntax.identifier.class.system</key>
-		<string>Menlo-Regular - 16.0</string>
+		<string>Hack-Regular - 15.0</string>
 		<key>xcode.syntax.identifier.constant</key>
-		<string>Menlo-Regular - 16.0</string>
+		<string>Hack-Regular - 15.0</string>
 		<key>xcode.syntax.identifier.constant.system</key>
-		<string>Menlo-Regular - 16.0</string>
+		<string>Hack-Regular - 15.0</string>
 		<key>xcode.syntax.identifier.function</key>
-		<string>Menlo-Regular - 16.0</string>
+		<string>Hack-Regular - 15.0</string>
 		<key>xcode.syntax.identifier.function.system</key>
-		<string>Menlo-Regular - 16.0</string>
+		<string>Hack-Regular - 15.0</string>
 		<key>xcode.syntax.identifier.macro</key>
-		<string>Menlo-Regular - 16.0</string>
+		<string>Hack-Regular - 15.0</string>
 		<key>xcode.syntax.identifier.macro.system</key>
-		<string>Menlo-Regular - 16.0</string>
+		<string>Hack-Regular - 15.0</string>
 		<key>xcode.syntax.identifier.type</key>
-		<string>Menlo-Regular - 16.0</string>
+		<string>Hack-Regular - 15.0</string>
 		<key>xcode.syntax.identifier.type.system</key>
-		<string>Menlo-Regular - 16.0</string>
+		<string>Hack-Regular - 15.0</string>
 		<key>xcode.syntax.identifier.variable</key>
-		<string>Menlo-Regular - 16.0</string>
+		<string>Hack-Regular - 15.0</string>
 		<key>xcode.syntax.identifier.variable.system</key>
-		<string>Menlo-Regular - 16.0</string>
+		<string>Hack-Regular - 15.0</string>
 		<key>xcode.syntax.keyword</key>
-		<string>Menlo-Regular - 16.0</string>
+		<string>Hack-Regular - 15.0</string>
 		<key>xcode.syntax.number</key>
-		<string>Menlo-Regular - 16.0</string>
+		<string>Hack-Regular - 15.0</string>
 		<key>xcode.syntax.plain</key>
-		<string>Menlo-Regular - 16.0</string>
+		<string>Hack-Regular - 15.0</string>
 		<key>xcode.syntax.preprocessor</key>
-		<string>Menlo-Regular - 16.0</string>
+		<string>Hack-Regular - 15.0</string>
 		<key>xcode.syntax.string</key>
-		<string>Menlo-Regular - 16.0</string>
+		<string>Hack-Regular - 15.0</string>
 		<key>xcode.syntax.url</key>
-		<string>Menlo-Regular - 16.0</string>
+		<string>Hack-Regular - 15.0</string>
 	</dict>
 </dict>
 </plist>
