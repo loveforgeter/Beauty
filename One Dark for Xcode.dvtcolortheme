@@ -128,51 +128,51 @@
 	<key>DVTSourceTextSyntaxFonts</key>
 	<dict>
 		<key>xcode.syntax.attribute</key>
-		<string>FiraMono-Regular - 16.0</string>
+		<string>FiraCode-Regular - 16.0</string>
 		<key>xcode.syntax.character</key>
-		<string>FiraMono-Regular - 16.0</string>
+		<string>FiraCode-Regular - 16.0</string>
 		<key>xcode.syntax.comment</key>
-		<string>FiraMono-Regular - 16.0</string>
+		<string>FiraCode-Regular - 16.0</string>
 		<key>xcode.syntax.comment.doc</key>
-		<string>FiraMono-Regular - 16.0</string>
+		<string>FiraCode-Regular - 16.0</string>
 		<key>xcode.syntax.comment.doc.keyword</key>
-		<string>FiraMono-Regular - 16.0</string>
+		<string>FiraCode-Regular - 16.0</string>
 		<key>xcode.syntax.identifier.class</key>
-		<string>FiraMono-Regular - 16.0</string>
+		<string>FiraCode-Regular - 16.0</string>
 		<key>xcode.syntax.identifier.class.system</key>
-		<string>FiraMono-Regular - 16.0</string>
+		<string>FiraCode-Regular - 16.0</string>
 		<key>xcode.syntax.identifier.constant</key>
-		<string>FiraMono-Regular - 16.0</string>
+		<string>FiraCode-Regular - 16.0</string>
 		<key>xcode.syntax.identifier.constant.system</key>
-		<string>FiraMono-Regular - 16.0</string>
+		<string>FiraCode-Regular - 16.0</string>
 		<key>xcode.syntax.identifier.function</key>
-		<string>FiraMono-Regular - 16.0</string>
+		<string>FiraCode-Regular - 16.0</string>
 		<key>xcode.syntax.identifier.function.system</key>
-		<string>FiraMono-Regular - 16.0</string>
+		<string>FiraCode-Regular - 16.0</string>
 		<key>xcode.syntax.identifier.macro</key>
-		<string>FiraMono-Regular - 16.0</string>
+		<string>FiraCode-Regular - 16.0</string>
 		<key>xcode.syntax.identifier.macro.system</key>
-		<string>FiraMono-Regular - 16.0</string>
+		<string>FiraCode-Regular - 16.0</string>
 		<key>xcode.syntax.identifier.type</key>
-		<string>FiraMono-Regular - 16.0</string>
+		<string>FiraCode-Regular - 16.0</string>
 		<key>xcode.syntax.identifier.type.system</key>
-		<string>FiraMono-Regular - 16.0</string>
+		<string>FiraCode-Regular - 16.0</string>
 		<key>xcode.syntax.identifier.variable</key>
-		<string>FiraMono-Regular - 16.0</string>
+		<string>FiraCode-Regular - 16.0</string>
 		<key>xcode.syntax.identifier.variable.system</key>
-		<string>FiraMono-Regular - 16.0</string>
+		<string>FiraCode-Regular - 16.0</string>
 		<key>xcode.syntax.keyword</key>
-		<string>FiraMono-Regular - 16.0</string>
+		<string>FiraCode-Regular - 16.0</string>
 		<key>xcode.syntax.number</key>
-		<string>FiraMono-Regular - 16.0</string>
+		<string>FiraCode-Regular - 16.0</string>
 		<key>xcode.syntax.plain</key>
-		<string>FiraMono-Regular - 16.0</string>
+		<string>FiraCode-Regular - 16.0</string>
 		<key>xcode.syntax.preprocessor</key>
-		<string>FiraMono-Regular - 16.0</string>
+		<string>FiraCode-Regular - 16.0</string>
 		<key>xcode.syntax.string</key>
-		<string>FiraMono-Regular - 16.0</string>
+		<string>FiraCode-Regular - 16.0</string>
 		<key>xcode.syntax.url</key>
-		<string>FiraMono-Regular - 16.0</string>
+		<string>FiraCode-Regular - 16.0</string>
 	</dict>
 </dict>
 </plist>
