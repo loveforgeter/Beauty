@@ -45,23 +45,23 @@
 	<key>DVTMarkupTextLinkColor</key>
 	<string>0.576471 0.631373 0.631373 1</string>
 	<key>DVTMarkupTextLinkFont</key>
-	<string>.SFNSText-Regular - 10.0</string>
+	<string>.SFNSText - 10.0</string>
 	<key>DVTMarkupTextNormalColor</key>
 	<string>0.576471 0.631373 0.631373 1</string>
 	<key>DVTMarkupTextNormalFont</key>
-	<string>.SFNSText-Regular - 10.0</string>
+	<string>.SFNSText - 10.0</string>
 	<key>DVTMarkupTextOtherHeadingColor</key>
 	<string>0.576471 0.631373 0.631373 0.5</string>
 	<key>DVTMarkupTextOtherHeadingFont</key>
-	<string>.SFNSText-Regular - 14.0</string>
+	<string>.SFNSText - 14.0</string>
 	<key>DVTMarkupTextPrimaryHeadingColor</key>
 	<string>0.576471 0.631373 0.631373 1</string>
 	<key>DVTMarkupTextPrimaryHeadingFont</key>
-	<string>.SFNSDisplay-Regular - 24.0</string>
+	<string>.SFNSDisplay - 24.0</string>
 	<key>DVTMarkupTextSecondaryHeadingColor</key>
 	<string>0.576471 0.631373 0.631373 1</string>
 	<key>DVTMarkupTextSecondaryHeadingFont</key>
-	<string>.SFNSText-Regular - 18.0</string>
+	<string>.SFNSText - 18.0</string>
 	<key>DVTMarkupTextStrongColor</key>
 	<string>0.576471 0.631373 0.631373 1</string>
 	<key>DVTMarkupTextStrongFont</key>
@@ -70,6 +70,8 @@
 	<string>0 0.168627 0.211765 1</string>
 	<key>DVTSourceTextBlockDimBackgroundColor</key>
 	<string>0.5 0.5 0.5 1</string>
+	<key>DVTSourceTextCurrentLineHighlightColor</key>
+	<string>0.00686275 0.179412 0.22353 1</string>
 	<key>DVTSourceTextInsertionPointColor</key>
 	<string>0.933333 0.909804 0.835294 1</string>
 	<key>DVTSourceTextInvisiblesColor</key>
@@ -128,51 +130,51 @@
 	<key>DVTSourceTextSyntaxFonts</key>
 	<dict>
 		<key>xcode.syntax.attribute</key>
-		<string>FiraCode-Regular - 16.0</string>
+		<string>SFMono-Regular - 16.0</string>
 		<key>xcode.syntax.character</key>
-		<string>FiraCode-Regular - 16.0</string>
+		<string>SFMono-Regular - 16.0</string>
 		<key>xcode.syntax.comment</key>
-		<string>FiraCode-Regular - 16.0</string>
+		<string>SFMono-Regular - 16.0</string>
 		<key>xcode.syntax.comment.doc</key>
-		<string>FiraCode-Regular - 16.0</string>
+		<string>SFMono-Regular - 16.0</string>
 		<key>xcode.syntax.comment.doc.keyword</key>
-		<string>FiraCode-Regular - 16.0</string>
+		<string>SFMono-Regular - 16.0</string>
 		<key>xcode.syntax.identifier.class</key>
-		<string>FiraCode-Regular - 16.0</string>
+		<string>SFMono-Regular - 16.0</string>
 		<key>xcode.syntax.identifier.class.system</key>
-		<string>FiraCode-Regular - 16.0</string>
+		<string>SFMono-Regular - 16.0</string>
 		<key>xcode.syntax.identifier.constant</key>
-		<string>FiraCode-Regular - 16.0</string>
+		<string>SFMono-Regular - 16.0</string>
 		<key>xcode.syntax.identifier.constant.system</key>
-		<string>FiraCode-Regular - 16.0</string>
+		<string>SFMono-Regular - 16.0</string>
 		<key>xcode.syntax.identifier.function</key>
-		<string>FiraCode-Regular - 16.0</string>
+		<string>SFMono-Regular - 16.0</string>
 		<key>xcode.syntax.identifier.function.system</key>
-		<string>FiraCode-Regular - 16.0</string>
+		<string>SFMono-Regular - 16.0</string>
 		<key>xcode.syntax.identifier.macro</key>
-		<string>FiraCode-Regular - 16.0</string>
+		<string>SFMono-Regular - 16.0</string>
 		<key>xcode.syntax.identifier.macro.system</key>
-		<string>FiraCode-Regular - 16.0</string>
+		<string>SFMono-Regular - 16.0</string>
 		<key>xcode.syntax.identifier.type</key>
-		<string>FiraCode-Regular - 16.0</string>
+		<string>SFMono-Regular - 16.0</string>
 		<key>xcode.syntax.identifier.type.system</key>
-		<string>FiraCode-Regular - 16.0</string>
+		<string>SFMono-Regular - 16.0</string>
 		<key>xcode.syntax.identifier.variable</key>
-		<string>FiraCode-Regular - 16.0</string>
+		<string>SFMono-Regular - 16.0</string>
 		<key>xcode.syntax.identifier.variable.system</key>
-		<string>FiraCode-Regular - 16.0</string>
+		<string>SFMono-Regular - 16.0</string>
 		<key>xcode.syntax.keyword</key>
-		<string>FiraCode-Regular - 16.0</string>
+		<string>SFMono-Regular - 16.0</string>
 		<key>xcode.syntax.number</key>
-		<string>FiraCode-Regular - 16.0</string>
+		<string>SFMono-Regular - 16.0</string>
 		<key>xcode.syntax.plain</key>
-		<string>FiraCode-Regular - 16.0</string>
+		<string>SFMono-Regular - 16.0</string>
 		<key>xcode.syntax.preprocessor</key>
-		<string>FiraCode-Regular - 16.0</string>
+		<string>SFMono-Regular - 16.0</string>
 		<key>xcode.syntax.string</key>
-		<string>FiraCode-Regular - 16.0</string>
+		<string>SFMono-Regular - 16.0</string>
 		<key>xcode.syntax.url</key>
-		<string>FiraCode-Regular - 16.0</string>
+		<string>SFMono-Regular - 16.0</string>
 	</dict>
 </dict>
 </plist>
