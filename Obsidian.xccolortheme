@@ -3,31 +3,31 @@
 <plist version="1.0">
 <dict>
 	<key>DVTConsoleDebuggerInputTextColor</key>
-	<string>0 0 0 1</string>
+	<string>0.85098 0.85098 0.85098 1</string>
 	<key>DVTConsoleDebuggerInputTextFont</key>
-	<string>SFMono-Bold - 11.0</string>
+	<string>SFMono-Regular - 12.0</string>
 	<key>DVTConsoleDebuggerOutputTextColor</key>
-	<string>0 0 0 1</string>
+	<string>0.85098 0.85098 0.85098 1</string>
 	<key>DVTConsoleDebuggerOutputTextFont</key>
-	<string>SFMono-Regular - 11.0</string>
+	<string>SFMono-Regular - 12.0</string>
 	<key>DVTConsoleDebuggerPromptTextColor</key>
-	<string>0.317071 0.437736 1 1</string>
+	<string>0.364706 0.486275 0.615686 1</string>
 	<key>DVTConsoleDebuggerPromptTextFont</key>
-	<string>SFMono-Bold - 11.0</string>
+	<string>SFMono-Semibold - 12.0</string>
 	<key>DVTConsoleExectuableInputTextColor</key>
-	<string>0 0 0 1</string>
+	<string>0.85098 0.85098 0.85098 1</string>
 	<key>DVTConsoleExectuableInputTextFont</key>
-	<string>SFMono-Regular - 11.0</string>
+	<string>SFMono-Regular - 12.0</string>
 	<key>DVTConsoleExectuableOutputTextColor</key>
-	<string>0 0 0 1</string>
+	<string>0.85098 0.85098 0.85098 1</string>
 	<key>DVTConsoleExectuableOutputTextFont</key>
-	<string>SFMono-Bold - 11.0</string>
+	<string>SFMono-Regular - 12.0</string>
 	<key>DVTConsoleTextBackgroundColor</key>
-	<string>0.999899 1 0.999842 1</string>
-	<key>DVTConsoleTextInsertionPointColor</key>
 	<string>0 0 0 1</string>
+	<key>DVTConsoleTextInsertionPointColor</key>
+	<string>0.894118 0.894118 0.894118 1</string>
 	<key>DVTConsoleTextSelectionColor</key>
-	<string>0.576266 0.81005 1 1</string>
+	<string>0.207843 0.262745 0.301961 1</string>
 	<key>DVTDebuggerInstructionPointerColor</key>
 	<string>0.705792 0.8 0.544 1</string>
 	<key>DVTMarkupTextBackgroundColor</key>
@@ -73,11 +73,11 @@
 	<key>DVTSourceTextCurrentLineHighlightColor</key>
 	<string>0.113 0.145 0.161 1</string>
 	<key>DVTSourceTextInsertionPointColor</key>
-	<string>0.896 0.896 0.896 1</string>
+	<string>0.894118 0.894118 0.894118 1</string>
 	<key>DVTSourceTextInvisiblesColor</key>
 	<string>0.5 0.5 0.5 1</string>
 	<key>DVTSourceTextSelectionColor</key>
-	<string>0.206 0.262 0.302 1</string>
+	<string>0.207843 0.262745 0.301961 1</string>
 	<key>DVTSourceTextSyntaxColors</key>
 	<dict>
 		<key>xcode.syntax.attribute</key>
@@ -91,7 +91,7 @@
 		<key>xcode.syntax.comment.doc.keyword</key>
 		<string>0.471 0.506 0.427 1</string>
 		<key>xcode.syntax.identifier.class</key>
-		<string>0.365 0.486 0.616 1</string>
+		<string>0.364706 0.486275 0.615686 1</string>
 		<key>xcode.syntax.identifier.class.system</key>
 		<string>0.365 0.486 0.616 1</string>
 		<key>xcode.syntax.identifier.constant</key>
@@ -103,7 +103,7 @@
 		<key>xcode.syntax.identifier.function.system</key>
 		<string>0.365 0.486 0.616 1</string>
 		<key>xcode.syntax.identifier.macro</key>
-		<string>0.549 0.549 0.714 1</string>
+		<string>0.54902 0.54902 0.713725 1</string>
 		<key>xcode.syntax.identifier.macro.system</key>
 		<string>0.502 0.814 0.795 1</string>
 		<key>xcode.syntax.identifier.type</key>
