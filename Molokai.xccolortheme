@@ -67,17 +67,17 @@
 	<key>DVTMarkupTextStrongFont</key>
 	<string>.SFNSText-Bold - 10.0</string>
 	<key>DVTSourceTextBackground</key>
-	<string>0.105882 0.113725 0.117647 1</string>
+	<string>0.0627451 0.0627451 0.0627451 1</string>
 	<key>DVTSourceTextBlockDimBackgroundColor</key>
 	<string>0.5 0.5 0.5 1</string>
 	<key>DVTSourceTextCurrentLineHighlightColor</key>
-	<string>0 0 0 1</string>
+	<string>0.12549 0.12549 0.12549 1</string>
 	<key>DVTSourceTextInsertionPointColor</key>
 	<string>0.973 0.973 0.941 1</string>
 	<key>DVTSourceTextInvisiblesColor</key>
 	<string>0.5 0.5 0.5 1</string>
 	<key>DVTSourceTextSelectionColor</key>
-	<string>0.160784 0.215686 0.223529 1</string>
+	<string>0.12549 0.12549 0.12549 1</string>
 	<key>DVTSourceTextSyntaxColors</key>
 	<dict>
 		<key>xcode.syntax.attribute</key>
@@ -130,51 +130,51 @@
 	<key>DVTSourceTextSyntaxFonts</key>
 	<dict>
 		<key>xcode.syntax.attribute</key>
-		<string>FiraCode-Regular - 16.0</string>
+		<string>SFMono-Regular - 14.0</string>
 		<key>xcode.syntax.character</key>
-		<string>FiraCode-Regular - 16.0</string>
+		<string>SFMono-Regular - 14.0</string>
 		<key>xcode.syntax.comment</key>
-		<string>FiraCode-Regular - 16.0</string>
+		<string>SFMono-Regular - 14.0</string>
 		<key>xcode.syntax.comment.doc</key>
-		<string>FiraCode-Regular - 16.0</string>
+		<string>SFMono-Regular - 14.0</string>
 		<key>xcode.syntax.comment.doc.keyword</key>
-		<string>FiraCode-Regular - 16.0</string>
+		<string>SFMono-Regular - 14.0</string>
 		<key>xcode.syntax.identifier.class</key>
-		<string>FiraCode-Regular - 16.0</string>
+		<string>SFMono-Regular - 14.0</string>
 		<key>xcode.syntax.identifier.class.system</key>
-		<string>FiraCode-Regular - 16.0</string>
+		<string>SFMono-Regular - 14.0</string>
 		<key>xcode.syntax.identifier.constant</key>
-		<string>FiraCode-Regular - 16.0</string>
+		<string>SFMono-Regular - 14.0</string>
 		<key>xcode.syntax.identifier.constant.system</key>
-		<string>FiraCode-Regular - 16.0</string>
+		<string>SFMono-Regular - 14.0</string>
 		<key>xcode.syntax.identifier.function</key>
-		<string>FiraCode-Regular - 16.0</string>
+		<string>SFMono-Regular - 14.0</string>
 		<key>xcode.syntax.identifier.function.system</key>
-		<string>FiraCode-Regular - 16.0</string>
+		<string>SFMono-Regular - 14.0</string>
 		<key>xcode.syntax.identifier.macro</key>
-		<string>FiraCode-Regular - 16.0</string>
+		<string>SFMono-Regular - 14.0</string>
 		<key>xcode.syntax.identifier.macro.system</key>
-		<string>FiraCode-Regular - 16.0</string>
+		<string>SFMono-Regular - 14.0</string>
 		<key>xcode.syntax.identifier.type</key>
-		<string>FiraCode-Regular - 16.0</string>
+		<string>SFMono-Regular - 14.0</string>
 		<key>xcode.syntax.identifier.type.system</key>
-		<string>FiraCode-Regular - 16.0</string>
+		<string>SFMono-Regular - 14.0</string>
 		<key>xcode.syntax.identifier.variable</key>
-		<string>FiraCode-Regular - 16.0</string>
+		<string>SFMono-Regular - 14.0</string>
 		<key>xcode.syntax.identifier.variable.system</key>
-		<string>FiraCode-Regular - 16.0</string>
+		<string>SFMono-Regular - 14.0</string>
 		<key>xcode.syntax.keyword</key>
-		<string>FiraCode-Regular - 16.0</string>
+		<string>SFMono-Regular - 14.0</string>
 		<key>xcode.syntax.number</key>
-		<string>FiraCode-Regular - 16.0</string>
+		<string>SFMono-Regular - 14.0</string>
 		<key>xcode.syntax.plain</key>
-		<string>FiraCode-Regular - 16.0</string>
+		<string>SFMono-Regular - 14.0</string>
 		<key>xcode.syntax.preprocessor</key>
-		<string>FiraCode-Regular - 16.0</string>
+		<string>SFMono-Regular - 14.0</string>
 		<key>xcode.syntax.string</key>
-		<string>FiraCode-Regular - 16.0</string>
+		<string>SFMono-Regular - 14.0</string>
 		<key>xcode.syntax.url</key>
-		<string>FiraCode-Regular - 16.0</string>
+		<string>SFMono-Regular - 14.0</string>
 	</dict>
 </dict>
 </plist>
